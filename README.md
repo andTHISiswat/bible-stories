@@ -7,7 +7,8 @@
 - **Pictures that follow the story**: 319 public-domain engravings placed at the verse they show.
 - **Listen**: reads the story aloud with your computer's voices. Pick the speed and the voice.
 - **Checkmarks**: mark each night you've read and see your progress.
-- **Ask about the story**: when you're online, your question opens in Claude with the night's reading filled in. Offline, questions are saved for later.
+- **Ask about the story**: a chat box answers your questions right in the app, faithful to Scripture with chapter and verse. It has over 1,100 written answers and works offline, with no account needed.
+- **Tonight's story in brief**: a short plain-English summary at the top of every night.
 - **Updates itself**: each time it opens, it checks here for a newer version. Your checkmarks and saved questions are kept.
 
 ## Install (Windows, no admin rights needed)
