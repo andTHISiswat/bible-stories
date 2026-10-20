@@ -70,7 +70,7 @@ textarea{width:100%;font:inherit;font-size:1.05rem;padding:.6rem;border:1px soli
 .saved li button{font-size:.9rem;padding:.2rem .6rem}
 .foot{margin-top:2.5rem;font-size:1rem;color:var(--muted)}
 .pager{display:flex;justify-content:space-between;gap:1rem;margin-top:2rem;flex-wrap:wrap}
-.appver{position:fixed;right:max(10px,env(safe-area-inset-right,0px));bottom:calc(8px + env(safe-area-inset-bottom,0px));font-size:.8rem;color:var(--muted);background:var(--bg);padding:.1rem .4rem;border:1px solid var(--rule);border-radius:3px}
+.appver{position:fixed;left:max(10px,env(safe-area-inset-left,0px));bottom:calc(8px + env(safe-area-inset-bottom,0px));font-size:.8rem;color:var(--muted);background:var(--bg);padding:.1rem .4rem;border:1px solid var(--rule);border-radius:3px}
 .appver.new{color:var(--accent);border-color:var(--accent)}
 .updbar{margin:1rem 0 0;padding:.6rem .9rem;border:1px solid var(--accent);color:var(--ink);background:var(--hl);font-size:1rem}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
@@ -278,7 +278,7 @@ window.addEventListener('pagehide',function(){S.cancel()});
 <script>
 // Updates: the launcher swaps in a newer copy from GitHub each time Bible Stories opens.
 // If one comes out while the app is open, this says to close and reopen it.
-window.BS_BUILD = 2026101922; window.BS_VERSION = '1.0.2';
+window.BS_BUILD = 2026101923; window.BS_VERSION = '1.0.3';
 (function(){
   if (MODE !== 'app') return;
   var av = document.getElementById('appVersion'); av.textContent = 'v' + window.BS_VERSION; av.hidden = false;
