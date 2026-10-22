@@ -2,7 +2,7 @@
 
 **Bible Stories** is a free Bible reading app for Windows: one Bible story a night until you've read the whole Bible. It works **offline**, reads each story **out loud**, and shows classic engravings by Gustave Doré and Julius Schnorr von Carolsfeld right where each scene happens in the text.
 
-- **The whole Bible in 440 nights**, in order, from Genesis to Revelation. Each night has a story title and a date.
+- **The whole Bible in 440 nights**, in order, from Genesis to Revelation, at your own pace. Each night has a story title, and "Up next" takes you to the first night you haven't checked off.
 - **World English Bible**: a modern English Christian translation of the 66 books, with God's name shown as "the LORD" like most English Bibles.
 - **Pictures that follow the story**: 319 public-domain engravings placed at the verse they show.
 - **Listen**: reads the story aloud with your computer's voices. Pick the speed and the voice.
